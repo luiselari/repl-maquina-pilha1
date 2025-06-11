@@ -1,4 +1,5 @@
-[pilhas.zip][pilhas.zip](https://github.com/user-attachments/files/20692139/pilhas.zip)
+[pilhas.zip][pilhas.zip][pilhaass.zip](https://github.com/user-attachments/files/20692522/pilhaass.zip)
+
 
 # repl-maquina-pilha1
 
